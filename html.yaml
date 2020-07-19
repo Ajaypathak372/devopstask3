@@ -54,4 +54,4 @@ spec:
       volumes:
       - name: webserver-pv
         persistentVolumeClaim:
-          claimName: pvc-webserver
+          claimName: pvc-html
